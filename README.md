@@ -1,1 +1,0 @@
-# ISRO-HACKATHON--Wildfire-prediction-
